@@ -4,7 +4,7 @@ import { Homepage } from './Homepage';
 
 function App() {
   return (
-    <Homepage message="Hello World"></Homepage>
+    <Homepage message="Hello Molly"></Homepage>
   );
 }
 

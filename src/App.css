@@ -5,3 +5,7 @@ body {
   color: purple;
   text-align: center;
 }
+
+.dex {
+  max-width: 500px;
+}
